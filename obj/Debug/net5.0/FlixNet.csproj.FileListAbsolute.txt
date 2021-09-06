@@ -1,0 +1,16 @@
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/obj/Debug/net5.0/FlixNet.csproj.AssemblyReference.cache
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/obj/Debug/net5.0/FlixNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/obj/Debug/net5.0/FlixNet.AssemblyInfoInputs.cache
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/obj/Debug/net5.0/FlixNet.AssemblyInfo.cs
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/obj/Debug/net5.0/FlixNet.csproj.CoreCompileInputs.cache
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/bin/Debug/net5.0/FlixNet
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/bin/Debug/net5.0/FlixNet.deps.json
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/bin/Debug/net5.0/FlixNet.runtimeconfig.json
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/bin/Debug/net5.0/FlixNet.runtimeconfig.dev.json
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/bin/Debug/net5.0/FlixNet.dll
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/bin/Debug/net5.0/ref/FlixNet.dll
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/bin/Debug/net5.0/FlixNet.pdb
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/obj/Debug/net5.0/FlixNet.dll
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/obj/Debug/net5.0/ref/FlixNet.dll
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/obj/Debug/net5.0/FlixNet.pdb
+/home/gabe/Desktop/Projects/Bootcamps/AvanadeCodeAnywhereDootNET/FlixNet/obj/Debug/net5.0/FlixNet.genruntimeconfig.cache

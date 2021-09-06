@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/gabe/.dotnet/store/|arch|/|tfm|",
+      "/home/gabe/.nuget/packages"
+    ]
+  }
+}
